@@ -1,0 +1,15 @@
+[Unit]
+Description = isucon9 qualifier external payment application
+
+[Service]
+WorkingDirectory=/home/isucon/isucon9-qualify
+
+ExecStart = /home/isucon/isucon9-qualify/bin/payment
+
+Restart   = always
+Type      = simple
+User      = isucon
+Group     = isucon
+
+[Install]
+WantedBy = multi-user.target
