@@ -2,10 +2,10 @@
 Description = isucon9 qualifier main application in golang
 
 [Service]
-WorkingDirectory=/home/isucon/isucari/webapp/go/
+WorkingDirectory=/home/isucon/isucon9-qualify/webapp/go/
 EnvironmentFile=/home/isucon/env.sh
 
-ExecStart = /home/isucon/isucari/webapp/go/isucari
+ExecStart = /home/isucon/isucon9-qualify/webapp/go/isucari
 
 Restart   = always
 Type      = simple
