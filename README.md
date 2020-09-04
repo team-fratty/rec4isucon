@@ -5,5 +5,5 @@
 
 ## [第3章 ISUCON の練習をしよう！（環境構築編）](snippet/ch03.md)
 
-
+内容の誤りやコメントは[Issue](https://github.com/team-fratty/tbf9code/issues/new)にご登録頂けますと幸いです。
 
