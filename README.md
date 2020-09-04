@@ -9,6 +9,6 @@
 ### [第3章 ISUCON の練習をしよう！（環境構築編）](snippet/ch03.md)
 
 
-## 本は内容の誤りやコメントは[Issue](https://github.com/team-fratty/tbf9code/issues/new)までお願いします。
+## 本の内容の誤りやコメントは[Issue](https://github.com/team-fratty/tbf9code/issues/new)までお願いします。
 
 ## 本の感想は[アンケートフォーム](https://forms.gle/evErumGKBPowvBFE7)までお願いします。
