@@ -7,4 +7,4 @@
 
 ### 内容の誤りやコメントは[Issue](https://github.com/team-fratty/tbf9code/issues/new)にご登録頂けますと幸いです。
 
-### 本の感想は[アンケート](https://forms.gle/evErumGKBPowvBFE7)までお願いします。
+### 本の感想は[アンケートフォーム](https://forms.gle/evErumGKBPowvBFE7)までお願いします。
