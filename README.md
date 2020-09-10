@@ -10,6 +10,6 @@
 ### [第4章 ISUCON の練習をしよう！（性能改善編）](snippet/ch04.md)
 
 
-## 本の内容の誤りやコメントは[Issue](https://github.com/team-fratty/tbf9code/issues/new)までお願いします。
+## 本の内容の誤りやコメントは[Issues](https://github.com/team-fratty/tbf9code/issues/new)までお願いします。
 
 ## 本の感想は[アンケートフォーム](https://forms.gle/evErumGKBPowvBFE7)までお願いします。
